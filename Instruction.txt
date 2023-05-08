@@ -1,0 +1,11 @@
+Instruction...
+1.Download all file
+2.Movie into one folder
+3.Make virtual environment
+4.Install packages
+streamlit
+pickle
+panads 
+request
+showing in screenshot
+5.Run the streamlit app
